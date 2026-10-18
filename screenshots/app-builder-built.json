@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Station Scope",
+      "hasCanvas": false,
+      "bodyTextLen": 3809,
+      "bodyTextHash": "1e21a305ce1ba06bfb4e1999e27700177322252c8a7353f794a0cb6c6d183f66",
+      "bodyTextPrefix": "NIGHT AIRCHECK Station Scope Read page again Every radio preview",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Station Scope",
+      "hasCanvas": false,
+      "bodyTextLen": 3809,
+      "bodyTextHash": "1e21a305ce1ba06bfb4e1999e27700177322252c8a7353f794a0cb6c6d183f66",
+      "bodyTextPrefix": "NIGHT AIRCHECK Station Scope Read page again Every radio preview",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}

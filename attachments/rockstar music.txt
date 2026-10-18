@@ -1,0 +1,81 @@
+CocoTeo%20FM.0n-4zp0t4l~if.mp3
+CocoTeo%20FM.0n-4zp0t4l~if.mp3
+2 / 156 requests
+1,988 kB / 4,187 kB transferred
+3,034 kB / 12,927 kB resources
+Finish: 6.52 s
+DOMContentLoaded: 704 ms
+Request URL
+https://www.rockstargames.com/VI/_next/static/media/CocoTeo%20FM.0n-4zp0t4l~if.mp3
+Request Method
+GET
+Status Code
+206 Partial Content
+Remote Address
+173.223.60.116:443
+Referrer Policy
+strict-origin-when-cross-origin
+accept-ranges
+bytes
+akamai-grn
+0.c8d07868.1792296141.f88ce3f
+cache-control
+max-age=0, no-cache, no-store
+content-length
+3034350
+content-range
+bytes 0-3034349/3034350
+content-type
+audio/mpeg
+date
+Sun, 18 Oct 2026 04:02:21 GMT
+etag
+W/"2e4cee-1a11bc9abe0"
+expires
+Sun, 18 Oct 2026 04:02:21 GMT
+last-modified
+Thu, 08 Oct 2026 13:52:44 GMT
+pragma
+no-cache
+rsgoriginserver
+ewrdmzwww0.rockstargames.online
+server
+Apache/2.4.37 (Oracle Linux) OpenSSL/1.1.1k
+strict-transport-security
+max-age=63072000; preload;
+:authority
+www.rockstargames.com
+:method
+GET
+:path
+/VI/_next/static/media/CocoTeo%20FM.0n-4zp0t4l~if.mp3
+:scheme
+https
+accept
+*/*
+accept-encoding
+identity;q=1, *;q=0
+accept-language
+en-US,en;q=0.9
+cookie
+OptanonAlertBoxClosed=2026-09-18T09:08:16.195Z; _ga=GA1.1.1642153063.1789722494; rockstarweb_lang.prod=en-US; _scid=UbZrq231v1UvIyK-cjr5H0HLJzNLPs5L; TS01347d69=01e681cfdbb53757d75ae1ca44edf1464b63057788735b53fd8094810502517459f73da0fc80b74f7cbad386a3eed0396f2e151c4fe0e697a5f9c52d5755cc1a990eb9a87ac93b764c13dd8282788c383e55cac6490694742139e17f0f74b447adc47c492e; _gcl_au=1.1.940685170.1790719832; _ga_K2BTQQ9RY3=GS2.1.s1791646027$o2$g0$t1791646027$j60$l0$h0; _sctr=1%7C1792123200000; _rdt_uuid=1790213606441.77f64dba-1589-429e-83cd-fae526d78a2f; _scid_r=bDZrq231v1UvIyK-cjr5H0HLJzNLPs5LPSIGbw; ak_bmsc=FC3D7868B46DADC734DA11D34036EC66~000000000000000000000000000000~YAAQKOw4F3Nbuz6hAQAAadYITQH1Y9O0GTcDLewepXYJ2mD+Q2J4oFmcoMrvDuX/g0nn6odDY71h4SPkMLN0f1G1d/XcgVNeD1rbFrWzNTf+TstYhsczrsdFwBQgBK9T1M/JwYrAWV2GMoSXtN2oIfvbH7ytaEGUD7fpjx3MaKA8XXiv5W5auaRbcAPeahcs9qdTCeAd02lyFODM41mrpf8RJE2Khc7mHxSKkkGMqxOzzEWLqvrA0jcaNfEjn6t6pzCbgpNpgUmbQxSro4eovv9Q6jRMh7gBRWUFPsCmj62gWawUKszPHuLmYZMpdKC+CpsnV5L3j+tfB6jPwgCn4lLeku8UrMhaWILyYo9q5UezWEfmO7SJFKzmVjO5BCHZU/U1+M6Kko+R5sKAEiip07SngxdnF7dqa5l43vmxix7L7IImvyCRsMTQU3Yk+LmJUHlEnuPsMWHc0xgaRgjwfErrPLbFaA==; RockstarSession-prod=f9109f080fd47e37d8fb1628e8ff704b; BearerToken=eyJhbGciOiJSUzI1NiIsImtpZCI6IjdmNmQwNDRlLTBmNGMtNGM3ZS04NDk0LWUyYzBkZWM1YWE4ZiIsInR5cCI6IkpXVCJ9.eyJuYW1laWQiOiIyMTEzODU3ODciLCJyb2Nrc3RhckF1dGguUnVpZCI6IjIyYTAwNDc0MzVkOTQ4ODdhMjg0ZmVkMjJkMmQyOWIxIiwianRpIjoiOWM0MzVlOTAtZDAwMS00YWMwLThiMzEtN2RmMTE2MWI2ZTRjIiwiY2xpZW50X2lkIjoicnNnIiwiYW1yIjpbXSwic2NBdXRoLktlZXBNZVNpZ25lZEluIjoiVHJ1ZSIsInNjQXV0aC5Ub2tlblN0b3JhZ2VUdGwiOiIyNTkyMDAwIiwic2NBdXRoLklzQU1pbm9yIjoiRmFsc2UiLCJzY0F1dGguTmlja25hbWUiOiJ6ZWxkYWg2NjYiLCJzY0F1dGguQXZhdGFyVXJsIjoiaHR0cHM6Ly9wcm9kLWF2YXRhcnMuYWthbWFpemVkLm5ldC9zdG9jay1hdmF0YXJzL24vZGVmYXVsdC5wbmciLCJzY0F1dGguSXNFbWFpbFZlcmlmaWVkIjoiVHJ1ZSIsInNjQXV0aC5NZW1iZXJTaW5jZSI6IjIwMjItMDYtMTVUMDA6MjU6NTguNDYwMDAwMFoiLCJuYmYiOjE3OTIyOTU4MzIsImF1ZCI6WyJodHRwczovL3d3dy5yb2Nrc3RhcmdhbWVzLmNvbSIsImh0dHBzOi8vc2NhcGkucm9ja3N0YXJnYW1lcy5jb20iLCJyb2Nrc3RhcnNlcnZpY2VzIl0sInNjb3BlIjoic2NhcGk6KiBzY3M6dXBkYXRlUHJvZmlsZSIsImV4cCI6MTc5MjI5NjEzMiwiaWF0IjoxNzkyMjk1ODMyLCJpc3MiOiJodHRwczovL3NpZ25pbi5yb2Nrc3RhcmdhbWVzLmNvbSJ9.rvXqfvsh91owNBMz7zb-FK3lrJ-XK13npg6S_ijo5vtc1XleE70RxuXJ-AQAID4IS2IbsNG0P33V8f5p_OC1KjjRyDHZWhkZgk7smzjSG7h4dwTI7uTwLK_nAHEK5IC0Vx4owqcxYUo_nxMCnu5OoEBOseesVQlf0R5F4tJRvuT6LspNoJSVZXBVpl-quSOOnMbkfVuyPdB_D-cTD3sfxZLS1ZpVnD3pQ5B9MYGWneaaojYIrNf47YHRSUK2gUJ7M0lcKLEdYZzfvUQYTaNwIVnrxfaoyoPkgoMoqJWzS4DUGFlwrcXufhlo1yrf5P9VajiXedbaCD0eF5MBHwbmAw; OptanonConsent=isGpcEnabled=0&datestamp=Sun+Oct+18+2026+00%3A00%3A10+GMT-0400+(Eastern+Daylight+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&genVendors=&consentId=19f78a11-486d-419f-a4e7-daa44078357d&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=1%3A1%2C2%3A1%2C3%3A1%2C4%3A1&crTime=1789722496463&AwaitingReconsent=false&fclco=&lastConsentTs=1789722496&intType=1&geolocation=US%3BFL; bm_sv=8056ED0C7DA11A62DEF236B0F8909CFD~YAAQyNB4aLomxUKhAQAA/r8sTQEhQAGtrI+RwGgX7w/Gxs8BY87c87EMvZqTHwNA2L2Z+e/Cpah0cEFwOjM5Ve0P4kYqhcZg7+OTcbPa5B2iaaMZFWyZKzQEerFY3gd0VPlx3QSbLaM+pZCW8wDk+nzEcgUXZzpgWl+wOw1cngOqmTEmNhdh8Udv7pV3KOpq7gSl8EWhbLjgV5ltFdaXP0bgGrTKUX8p/H4V+12gNZtWAY/IV4AJ1Hx4gh9WRGcuMg291RHUW/M=~1; _ga_PJQ2JYZDQC=GS2.1.s1792293787$o35$g1$t1792296140$j60$l0$h0
+priority
+i
+range
+bytes=0-
+referer
+https://www.rockstargames.com/VI/music
+sec-ch-ua
+"Chromium";v="152", "Not?A_Brand";v="24", "Opera GX";v="136"
+sec-ch-ua-mobile
+?0
+sec-ch-ua-platform
+"Windows"
+sec-fetch-dest
+audio
+sec-fetch-mode
+no-cors
+sec-fetch-site
+same-origin
+user-agent
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 OPR/136.0.0.0
